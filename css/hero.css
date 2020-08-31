@@ -16,6 +16,8 @@ header{
 h1, h2{
 	font-family: 'Press Start 2P', cursive;
 }
+
+/*header styles*/
 header h1{
 	color: white;
 	font-size: 50px;
@@ -28,6 +30,7 @@ header img{
     width: 300px;
     border:10px solid white;
 }
+
 
 main{
 
